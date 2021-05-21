@@ -1,0 +1,3 @@
+# from smart_microscopy_test import threshold, image_arithmetic
+
+# add your tests here...
